@@ -3,10 +3,17 @@
 An interactive Excel dashboard exploring what drives bike purchasing decisions across 1,000+ customers in Europe, North America, and the Pacific. Built using Excel Pivot Tables, Pivot Charts, and slicers.
 
 ![Dashboard Preview](dashboard_screenshot.png)
+
 Figure 01: Interactive dashboard
+
+
 ![pivot Preview](pivot_screenshot.png)
+
 Figure 02: Pivot tables and charts
+
+
 ![data Preview](data_screenshot.png)
+
 Figure 03: Clean Data 
 
 
