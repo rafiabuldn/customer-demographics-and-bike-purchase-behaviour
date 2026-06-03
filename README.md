@@ -1,6 +1,6 @@
 # Customer Demographics and Bike Purchase Behaviour
 
-An interactive Excel dashboard exploring what drives bike purchasing decisions across 1,000+ customers in Europe, North America, and the Pacific. Built using Excel Pivot Tables, Pivot Charts, and slicers.
+An interactive Excel dashboard exploring what drives bike purchasing decisions across 1,000 customers in Europe, North America, and the Pacific. Built using Excel Pivot Tables, Pivot Charts, and slicers.
 
 ![Dashboard Preview](dashboard_screenshot.png)
 
@@ -28,7 +28,7 @@ Figure 03: Clean Data
 
 ## Dataset
 
-- **1,026 customer records** across 13 variables
+- **1,026 customer records** across 13 variables (before data cleaning)
 - Variables include: gender, income, age, marital status, education, occupation, number of cars, commute distance, region, and bike purchase outcome
 - Regions covered: North America (50%), Europe (31%), Pacific (20%)
 
